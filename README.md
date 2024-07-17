@@ -3,7 +3,6 @@
 <img align="right"alt="coding"width="300"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh204&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh204" /> </p>
 
-- 📫 You can reach me at 👉 **im.mishranitesh@gmail.com**
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
