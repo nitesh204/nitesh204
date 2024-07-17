@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at 👉 **im.mishranitesh@gmail.com**
 
-<h3 align="left">Connect with me 🫱🏼‍🫲🏻:</h3>
+<h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" height="30" width="40" /></a>
