@@ -6,7 +6,7 @@
 
 
 <p>
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning 𝗣𝘆𝘁𝗵𝗼𝗻
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/nitesh204)
 
