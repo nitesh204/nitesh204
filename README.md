@@ -10,7 +10,7 @@
  
 - 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
   
-- 📫 Reach me 👉 [myemailid](im.mishranitesh@gmail.com)
+- 📫 Reach me 👉 **im.mishranitesh@gmail.com**
 
 </p>
 <br>
