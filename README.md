@@ -8,9 +8,9 @@
 <p>
 - 🌱 I’m currently learning 𝗣𝘆𝘁𝗵𝗼𝗻
  
-- 👨‍💻 My all projects are available at [github](https://github.com/nitesh204)
+- 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
   
-- 📫 Reach me 👉  **im.mishranitesh@gmail.com**
+- 📫 Reach me 👉 [myemailid](im.mishranitesh@gmail.com)
 
 </p>
 <br>
