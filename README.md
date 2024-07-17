@@ -8,7 +8,7 @@
 <p>
 - 🌱 I’m currently learning 𝗣𝘆𝘁𝗵𝗼𝗻
  
-- 👨‍💻 All of my projects are available at [github](https://github.com/nitesh204)
+- 👨‍💻 My all projects are available at [github](https://github.com/nitesh204)
   
 - 📫 Reach me 👉  **im.mishranitesh@gmail.com**
 
