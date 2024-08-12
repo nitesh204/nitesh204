@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bhopesh Randi  </h1>
+<h1 align="center">Hello 👋, Nitesh mishra </h1>
 
 <h3 align="center">  Artificial Intelligence & Data Science Student from India </h3>
 <img align="right"alt="coding"width="300"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"
