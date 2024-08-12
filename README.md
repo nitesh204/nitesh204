@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Nitesh  </h1>
+<h1 align="center">Hello 👋, I'm Bhopesh Randi  </h1>
 
 <h3 align="center">  Artificial Intelligence & Data Science Student from India </h3>
 <img align="right"alt="coding"width="300"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"
@@ -6,7 +6,7 @@
 
 
 <p>
-- 🌱 I’m currently learning 𝗣𝘆𝘁𝗵𝗼𝗻
+- 🌱 I’m currently learning How to masturbate
  
 - 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
   
