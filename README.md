@@ -6,7 +6,7 @@
 
 
 <p>
-- 🌱 I’m currently learning How to masturbate
+- 🌱 I’m currently learning python
  
 - 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
   
