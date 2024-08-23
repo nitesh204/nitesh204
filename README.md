@@ -20,6 +20,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" height="30" width="40" /></a>
+ <a href="https://discordapp.com/users/1268522091616141446" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
+  
 </p>
 <br></br>
 <h3 align="left">Languages and Tools I Know : </h3>
