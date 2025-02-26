@@ -2,7 +2,7 @@
 
 <h3 align="center">  Artificial Intelligence & Data Science Student from India </h3>
 <img align="right"alt="coding"width="300"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh204&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh204&label=Viewer%20number&color=3e8eeb&style=plastic" alt="nitesh204" /> </p>
 
 
 <p>
