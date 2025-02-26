@@ -8,7 +8,7 @@
 <p>
 - 🌱 I’m currently learning python
 
-- 💼 Check out my portfolio: <a href="https://niteshmishra.vercel.app/">Portfolio</a>
+- 💼 Check out my <a href="https://niteshmishra.vercel.app/">Portfolio</a>
  
 - 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
   
