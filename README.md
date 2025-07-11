@@ -1,40 +1,76 @@
-<h1 align="center">Hello 👋, I am Nitesh mishra </h1>
+<!-- ✨ Animated Typing Intro & Hero GIF -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F70000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nitesh+Mishra!;AI+%26+Data+Science+Student+From+India;Lifelong+Learner;Building+Cool+Things+with+Code" alt="Typing Animation" />
+  <br />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
 
-<h3 align="center">  Artificial Intelligence & Data Science Student from India </h3>
-<img align="right"alt="coding"width="300"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh204&label=Viewer%20number&color=3e8eeb&style=plastic" alt="nitesh204" /> </p>
+---
 
+## 🚀 About Me
 
-<p>
-- 🌱 I’m currently learning python
+- 🧑‍💻 I'm a passionate **AI & Data Science** student from India 🇮🇳  
+- 🔭 Currently building projects with **React, Node.js, MongoDB**
+- 🌱 Exploring **AI**, **System Design**, and **DevOps**
+- 💬 Ask me about: `Python`, `MERN`, `AI basics`, `Web Dev`
+- 📫 Reach me at: **im.mishranitesh@gmail.com**  
+- 🌐 Portfolio: <a href="https://niteshmishra.vercel.app" target="_blank">Click here</a>
 
-- 💼 Check out my <a href="https://niteshmishra.vercel.app/">Portfolio</a>
- 
-- 👨‍💻 All my projects are available at [github](https://github.com/nitesh204)
-  
-- 📫 Reach me 👉 **im.mishranitesh@gmail.com**
+---
 
-</p>
-<br>
+## 📊 GitHub Stats
 
-
-<h3 align="left">Connect with me 🤝 : </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niteshmishra1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nitesh20_04?igsh=oxlwajl3axpyzzd6" height="30" width="40" /></a>
- <a href="https://discordapp.com/users/1268522091616141446" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
-  
-</p>
-<br></br>
-<h3 align="left">Languages and Tools I Know : </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p> <img src=https://github-readme-stats.vercel.app/api?username=nitesh204&show_icons=true /> 
- 
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nitesh204&theme=light&no-bg=true&no-frame=true&langs_count=8&hide=scss,css,html&layout=donut-vertical" alt="nitesh204" style="height: 196px;" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitesh204&show_icons=true&theme=radical&count_private=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh204&layout=compact&theme=radical&langs_count=8&hide=css,html" height="180" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh204&" alt="nitesh204" /></p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh204&theme=radical&hide_border=false&border_radius=10" height="200" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=nitesh204&theme=radical&no-frame=true&margin-w=15&column=6" />
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,python,html,css,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niteshmishra1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.instagram.com/nitesh20_04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://discordapp.com/users/1268522091616141446" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+</p>
+
+---
+
+<!-- 🌈 Footer Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 
