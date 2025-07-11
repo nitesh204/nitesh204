@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/niteshmishra1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.instagram.com/nitesh20_04" target="_blank">
+  <a href="https://www.instagram.com/nitesh.mishhra" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://discordapp.com/users/1268522091616141446" target="_blank">
