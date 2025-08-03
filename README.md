@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 I'm a passionate **AI & Data Science** student from India 🇮🇳  
+- 🧑‍💻 I'm a passionate **AI & Data Science** student from India  
 - 🔭 Currently building projects with **React, Node.js, MongoDB**
 - 🌱 Exploring **AI**, **System Design**, and **DevOps**
 - 💬 Ask me about: `Python`, `MERN`, `AI basics`, `Web Dev`
