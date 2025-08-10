@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitesh204&show_icons=true&theme=radical&count_private=true&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh204&layout=compact&theme=radical&langs_count=8&hide=css,html" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh204&layout=compact&theme=radical&lang" height="180" />
 </p>
 
 ---
